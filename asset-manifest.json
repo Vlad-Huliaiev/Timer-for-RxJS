@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Timer-for-RxJS/static/css/main.009afa1d.chunk.css",
+    "main.js": "/Timer-for-RxJS/static/js/main.bddc9427.chunk.js",
+    "main.js.map": "/Timer-for-RxJS/static/js/main.bddc9427.chunk.js.map",
+    "runtime-main.js": "/Timer-for-RxJS/static/js/runtime-main.d78a1d87.js",
+    "runtime-main.js.map": "/Timer-for-RxJS/static/js/runtime-main.d78a1d87.js.map",
+    "static/js/2.92803b9d.chunk.js": "/Timer-for-RxJS/static/js/2.92803b9d.chunk.js",
+    "static/js/2.92803b9d.chunk.js.map": "/Timer-for-RxJS/static/js/2.92803b9d.chunk.js.map",
+    "static/js/3.e65f5049.chunk.js": "/Timer-for-RxJS/static/js/3.e65f5049.chunk.js",
+    "static/js/3.e65f5049.chunk.js.map": "/Timer-for-RxJS/static/js/3.e65f5049.chunk.js.map",
+    "index.html": "/Timer-for-RxJS/index.html",
+    "static/css/main.009afa1d.chunk.css.map": "/Timer-for-RxJS/static/css/main.009afa1d.chunk.css.map",
+    "static/js/2.92803b9d.chunk.js.LICENSE.txt": "/Timer-for-RxJS/static/js/2.92803b9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d78a1d87.js",
+    "static/js/2.92803b9d.chunk.js",
+    "static/css/main.009afa1d.chunk.css",
+    "static/js/main.bddc9427.chunk.js"
+  ]
+}
